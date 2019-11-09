@@ -1,4 +1,4 @@
-# def hello_t(array)
+ def hello_t(array)
  #  i = 0 
   # if i < array.length
    #  yield array[i]
